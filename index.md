@@ -1,7 +1,10 @@
 ## jjjyeon
-You can use the [editor on GitHub](https://github.com/jjjyeon/jjjyeon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ***NAME***
+**이정연**
+
+## ***UNIVERSITY***
+**이화여자대학교 경영학과 소속**
 
 ### Markdown
 
