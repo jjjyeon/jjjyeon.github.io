@@ -9,8 +9,5 @@
 ## ▫️ Experience
 **영어 조교**, 2021.04-2021.08
 
-## ▫️ Hobby
-**산책 , 풍경 사진 찍기**
-
 ## ▫️ E-mail
 **yeon916@ewhain.net**
