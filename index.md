@@ -1,5 +1,3 @@
-# ***jjjyeon***
-
 ## ▫️ Name
 이정연
 
@@ -10,10 +8,10 @@
 ## ▫️ Interest
 코딩 관련 공부
 
-## ▫️ ***Hobby***
+## ▫️ Hobby
 
 산책 , 풍경 사진 찍기 , 노래 듣기
 
-## ▫️ ***E-mail***
+## ▫️ E-mail
 
 yeon916@ewhain.net
