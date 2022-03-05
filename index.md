@@ -1,19 +1,19 @@
-# jjjyeon
+# ***jjjyeon***
 
-## ▫️ ***Name***
-**이정연**
+## ▫️ Name
+이정연
 
-## ▫️ ***University / Major***
+## ▫️ University / Major
 
-**이화여자대학교 경영학과**
+이화여자대학교 경영학과
 
-## ▫️ ***Interest***
-**코딩 관련 공부**
+## ▫️ Interest
+코딩 관련 공부
 
 ## ▫️ ***Hobby***
 
-**산책 , 풍경 사진 찍기 , 노래 듣기**
+산책 , 풍경 사진 찍기 , 노래 듣기
 
 ## ▫️ ***E-mail***
 
-**yeon916@ewhain.net**
+yeon916@ewhain.net
